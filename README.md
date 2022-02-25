@@ -1,1 +1,1 @@
-# ShoppingCart
+This is a practical project which I implemented using my deep understanding of Data Structures and Algorithms, also to help me with getting more comfortable and string in Data Structures and Algorithms.
